@@ -23,38 +23,58 @@ The switch-case structure offers a cleaner alternative to multiple if checks whe
 Algorithm: Odd or Even Number Detection
 
 1️⃣ Start
+
 2️⃣ Declare an integer variable num
+
 3️⃣ Prompt the user to enter a number 
+
 4️⃣ Input the number into num 
+
 5️⃣ Check if num % 2 == 0 ✔️ If true → Display "Even" ❌ Else → Display "Odd"
+
 6️⃣ End
 
 Algorithm: Largest of Three Numbers
 
 1️⃣ Start 
 2️⃣ Declare three integer variables a, b, and c 
+
 3️⃣ Prompt the user to enter all three numbers 
+
 4️⃣ Input the values 
-5️⃣ Compare: ✔️ If a > b && a > c → Display a is largest ✔️ Else if b > c → Display b is largest ❌ Else → Display c is largest 
+
+5️⃣ Compare: ✔️ If a > b && a > c → Display a is largest ✔️ Else if b > c → Display b is largest ❌ Else → Display c is largest
+
 6️⃣ End
 
 Algorithm: Vowel or Consonant Using ASCII
 
 1️⃣ Start 
+
 2️⃣ Declare a character variable ch 
+
 3️⃣ Prompt the user to enter a character 
+
 4️⃣ Input ch 
+
 5️⃣ Check if ch is between 'A'-'Z' or 'a'-'z' (ASCII 65–90 or 97–122) ✔️ If true → Check if ch is 'A', 'E', 'I', 'O', 'U' or lowercase equivalents ✔️ If true → Display "Vowel" ❌ Else → Display "Consonant" ❌ Else → Display "Not a letter" 
+
 6️⃣ End
 
 Algorithm: Month Selector Using switch-case
 
 1️⃣ Start 
-2️⃣ Declare an integer variable choice 
+
+2️⃣ Declare an integer variable choice
+
 3️⃣ Display menu options for months (1–12) 
+
 4️⃣ Prompt the user to enter a choice 
+
 5️⃣ Input choice 
+
 6️⃣ Use switch(choice) ✔️ Match cases from 1–12 to corresponding month ❌ If no match → Display "Invalid Input" 
+
 7️⃣ End
 
 🧠 Conclusion
