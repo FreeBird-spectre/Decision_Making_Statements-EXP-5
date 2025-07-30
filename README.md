@@ -37,6 +37,7 @@ Algorithm: Odd or Even Number Detection
 Algorithm: Largest of Three Numbers
 
 1️⃣ Start 
+
 2️⃣ Declare three integer variables a, b, and c 
 
 3️⃣ Prompt the user to enter all three numbers 
